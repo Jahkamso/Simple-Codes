@@ -1,2 +1,7 @@
 # Simple-Codes
-A little project I made
+
+I'm a Junior Front-End developer
+
+Check out some of my awesome little projects..
+
+please be sure to leave a comment.
